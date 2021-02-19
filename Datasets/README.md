@@ -23,3 +23,7 @@
 - 3 classes
 - incorrect - 229, with mask - 277, without mask - 266
 
+# Final dataset
+
+- shape: (9126, 80, 80, 3)
+- incorrect - 348, with mask - 6759, without mask - 2019
