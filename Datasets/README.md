@@ -25,5 +25,5 @@
 
 # Final dataset
 
-- shape: (9126, 80, 80, 3)
-- incorrect - 348, with mask - 6759, without mask - 2019
+- shape: (9398, 80, 80, 3)
+- incorrect - 520, with mask - 6894, without mask - 1984
